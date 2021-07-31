@@ -1,11 +1,6 @@
 # FavColorPicker
 Color picker(HEX, RGBA)
 
-![ScreenShot 1](https://{www.mediafire.com/view/6ha2pq62eirtvw3/Screenshot_2021-07-31-18-33-41-22_4b594a191017da108b84c992b65948f7.jpg/file})
-
-![ScreenShot 2](https://{www.mediafire.com/view/imlaelwtk1jqh2m/Screenshot_2021-07-31-18-33-48-13_4b594a191017da108b84c992b65948f7.jpg/file})
-
-
 >Step 1. Add the JitPack repository to your build file
 
 ```gradle
