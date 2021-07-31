@@ -1,0 +1,3 @@
+include ':colory'
+include ':app'
+rootProject.name = "Fav Color Picker"
