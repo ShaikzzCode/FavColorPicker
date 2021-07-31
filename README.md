@@ -27,6 +27,11 @@ Color picker(HEX, RGBA)
                 67 // Default Blue value
         );
 ```
+
+> For showing Color Picker, use below line (You can use it in buttons and on any click listner)
+```java
+favColors.show();
+```
   > NOTE : you can replace the default color codes and your activity from here
   > 
   > This repo is for my personal project, if you want you can use it.
