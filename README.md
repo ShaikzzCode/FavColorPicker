@@ -1,6 +1,8 @@
 # FavColorPicker
 Color picker(HEX, RGBA)
 
+> Supported for Android Api 25 and above...
+
 >Step 1. Add the JitPack repository to your build file
 
 ```gradle
